@@ -24,11 +24,11 @@ yarn add cypress --dev
 npx cypress open
 ```
 
-#Select E2E Testing
+Select E2E Testing
 
-#Choose available browsers
+Choose available browsers
 
-#Start E2E Testing 
+Start E2E Testing 
 
 ## Specs 
 
